@@ -1,1 +1,2 @@
-# eip-2627-tutorium-material
+# Material für Tutorium EIP 26/27
+by Quinn
