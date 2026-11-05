@@ -1,4 +1,4 @@
-public class Normalizer {
+public class T4_A4_Normalizer {
 
     // Vorgegeben: gibt den größten Wert des übergebenen Arrays zurück
     public static double max(double[] values) {
