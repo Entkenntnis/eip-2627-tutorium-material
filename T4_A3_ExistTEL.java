@@ -11,6 +11,7 @@ public class T4_A3_ExistTEL {
         } else {
             System.out.println("Die Buchstaben 't', 'e' und 'l' kommen nicht alle mindestens einmal vor.");
         }
+        countTEL(zeichen);
         scanner.close();
     }
 
@@ -33,5 +34,9 @@ public class T4_A3_ExistTEL {
 
     public static boolean existsL(char[] zeichen) {
         // TODO
+    }
+
+    public static void countTEL(char[] zeichen) {
+        // BONUS
     }
 }
