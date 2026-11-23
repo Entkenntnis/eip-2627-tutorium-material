@@ -18,4 +18,4 @@ Implementiere die Klasse StraightLine, welche eine Gerade darstellt, nutze für 
 
 Biete einen Konstruktur mit Point+Vector2D sowie einen Konstruktor mit Point, Point an. Die interne Darstellung bleibt in beiden Fällen Point+Vector2D.
 
-SCHWER! Implementiere die Methode equals, welche überprüft, ob zwei Geraden gleich sind (Hinweis: Vektoren müssen übereinstimmen und dann Gleichungssystem lösen bzw. daraus Formel herleiten)
+SCHWER! Implementiere die Methode equals, welche überprüft, ob zwei Geraden gleich sind (Hinweis: Richtungsvektoren müssen parallel sein und dann Gleichungssystem lösen bzw. daraus Formel herleiten)
